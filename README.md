@@ -1,4 +1,4 @@
-# Analisis Komparatif 10 Algoritma Unsupervised Clustering pada Data Traceroute Jaringan
+# Analisis 10 Unsupervised Clustering Models pada Data Traceroute Jaringan
 
 Proyek ini menganalisis dataset `cleaned_traceroute_with_host.csv` menggunakan 10 algoritma clustering machine learning untuk mengidentifikasi pola dan anomali dalam data lalu lintas jaringan.
 
