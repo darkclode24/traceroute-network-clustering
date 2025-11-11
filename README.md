@@ -35,9 +35,9 @@ Tabel ini membandingkan Silhouette Score dari setiap model. Skor yang lebih ting
     pip install -r requirements.txt
     ```
 
-3.  **Run main.py**
+3.  **Run the program**
     ```bash
-    python cluster_analysis.py
+    python main.py
     ```
 
 4.  **Check output**
