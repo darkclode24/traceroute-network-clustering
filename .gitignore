@@ -209,8 +209,5 @@ __marimo__/
 # Custom output folder
 output/
 
-# Data files
-*.csv
-
 # Environment files
 .venv/
