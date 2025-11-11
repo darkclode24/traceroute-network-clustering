@@ -21,7 +21,7 @@ Tabel ini membandingkan Silhouette Score dari setiap model. Skor yang lebih ting
 | 9 | **DBSCAN** | `eps=3.0` | Penuh | 0.3807 |
 | 10 | **OPTICS** | `eps=3.0` | Penuh | 0.3807 |
 
-## Cara Menjalankan Proyek
+## Setup
 
 
 1.  **Clone the repo**
