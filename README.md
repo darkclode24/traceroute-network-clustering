@@ -26,8 +26,8 @@ Tabel ini membandingkan Silhouette Score dari setiap model. Skor yang lebih ting
 
 1.  **Clone the repo**
     ```bash
-    git clone [https://github.com/](https://github.com/)[Your-Username]/[Your-Repo-Name].git
-    cd [Your-Repo-Name]
+    git clone https://github.com/darkclode24/traceroute-network-clustering.git
+    cd traceroute-network-clustering
     ```
     
 2.  **Install Dependency**
